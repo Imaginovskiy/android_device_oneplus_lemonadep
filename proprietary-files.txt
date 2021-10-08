@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from OnePlus9ProOxygen_22.E.11_OTA_0110_all_2107082125_d0bd7d565
+# All unpinned blobs below are extracted from OnePlus9ProOxygen_22.E.12_OTA_0120_all_2109102019_a211d7c24258e
 
 # ACDB
 odm/etc/acdbdata/acdb_version
@@ -382,6 +382,9 @@ vendor/etc/libnfc-mtp-SN100.conf_20857
 vendor/etc/libnfc-mtp-SN100.conf_20858
 vendor/etc/libnfc-mtp-SN100.conf_20859
 vendor/etc/libnfc-mtp-SN100_38_4MHZ.conf
+
+# ODM feature list
+odm/etc/odm_feature_list
 
 # Sensors
 vendor/etc/sensors/config/ak0991x_0.json
